@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="awt.injector-1.0.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/configuration/org.eclipse.osgi/187/0/.cp/lib/awt.injector-1.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

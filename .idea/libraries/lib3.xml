@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="lib3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugins/org.jkiss.bundle.gis_2.0.7/lib/jts-core-1.19.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/org.jkiss.bundle.gis_2.0.7/lib/cts-1.5.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/org.jkiss.bundle.gis_2.0.7/lib/jts-io-common-1.19.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/org.jkiss.bundle.gis_2.0.7/lib/wkg-0.1-SNAPSHOT.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/org.jkiss.bundle.gis_2.0.7/lib/ejml-core-0.41.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/org.jkiss.bundle.gis_2.0.7/lib/json-simple-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/org.jkiss.bundle.gis_2.0.7/lib/ejml-ddense-0.41.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
